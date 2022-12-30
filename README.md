@@ -10,6 +10,9 @@
 * [Prettier](https://prettier.io/) & [ESLint](https://eslint.org/)
 * [Less](https://lesscss.org/) & [Stylelint](https://stylelint.io/)
 
+## 改造方案
+* [React服务端渲染（SSR）入门及项目搭建](https://blog.csdn.net/dKnightL/article/details/125295881)
+
 ## 开发模式
 
 ```
